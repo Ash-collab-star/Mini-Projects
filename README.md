@@ -21,8 +21,13 @@ Projects:
   An ecommerce site to display customer reviews or a personal portfolio to display 
   client reviews.
 
-5. Hamburger-Nav
+
+5.Hamburger-Nav
    A hamburger navigation menu is a common UI element used in web design, especially on mobile devices.
    It is web-responsive which consist of  three horizontal lines resembling a hamburger, which,
     when clicked, reveal a hidden menu with navigation links
+    
+6.Lorem Ipsum Text Generator:
+It creates paragraphs according to your choice and you can copy to your clipboard for your use
+
 
